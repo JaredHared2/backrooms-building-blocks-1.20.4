@@ -17,5 +17,7 @@ public class BackroomsBuildingBlocks implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		//first attempt at making a minecraft mod :3
 	}
 }
