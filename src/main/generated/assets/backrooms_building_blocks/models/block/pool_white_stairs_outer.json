@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "backrooms_building_blocks:block/pool_white",
+    "side": "backrooms_building_blocks:block/pool_white",
+    "top": "backrooms_building_blocks:block/pool_white"
+  }
+}

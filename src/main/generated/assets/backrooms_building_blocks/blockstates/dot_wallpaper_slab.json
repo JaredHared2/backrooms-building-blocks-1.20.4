@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms_building_blocks:block/dot_wallpaper_slab"
+    },
+    "type=double": {
+      "model": "backrooms_building_blocks:block/dot_wallpaper"
+    },
+    "type=top": {
+      "model": "backrooms_building_blocks:block/dot_wallpaper_slab_top"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "itemgroup.backrooms": "Backrooms Building Blocks",
+
+  "block.backrooms_building_blocks.pool_black": "Black Pool Block",
+  "block.backrooms_building_blocks.pool_black_slab": "Black Pool Block Slab",
+  "block.backrooms_building_blocks.pool_black_stairs": "Black Pool Block Stair",
+  "block.backrooms_building_blocks.pool_white": "White Pool Block",
+  "block.backrooms_building_blocks.pool_white_slab": "White Pool Block Slab",
+  "block.backrooms_building_blocks.pool_white_stairs": "White Pool Block Stair",
+  "block.backrooms_building_blocks.arrow_wallpaper": "Backrooms Arrow Wallpaper",
+  "block.backrooms_building_blocks.arrow_wallpaper_bottom": "Backrooms Arrow Wallpaper Bottom",
+  "block.backrooms_building_blocks.arrow_wallpaper_slab": "Backrooms Arrow Wallpaper Slab",
+  "block.backrooms_building_blocks.dot_wallpaper": "Backrooms Dot Wallpaper",
+  "block.backrooms_building_blocks.dot_wallpaper_bottom": "Backrooms Dot Wallpaper Bottom",
+  "block.backrooms_building_blocks.dot_wallpaper_slab": "Backrooms Dot Wallpaper Slab",
+  "block.backrooms_building_blocks.white_brick": "White Brick",
+  "block.backrooms_building_blocks.white_brick_slab": "White Brick Slab",
+  "block.backrooms_building_blocks.white_brick_stairs": "White Brick Stairs",
+  "block.backrooms_building_blocks.backrooms_carpet": "Backrooms Carpet",
+  "block.backrooms_building_blocks.backrooms_carpet_slab": "Backrooms Carpet Slab",
+  "block.backrooms_building_blocks.backrooms_carpet_stairs": "Backrooms Carpet Stairs",
+
+  "block.backrooms_building_blocks.white_void": "White Void"
+
+}

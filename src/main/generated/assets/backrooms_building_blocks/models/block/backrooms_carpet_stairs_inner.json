@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "backrooms_building_blocks:block/backrooms_carpet",
+    "side": "backrooms_building_blocks:block/backrooms_carpet",
+    "top": "backrooms_building_blocks:block/backrooms_carpet"
+  }
+}

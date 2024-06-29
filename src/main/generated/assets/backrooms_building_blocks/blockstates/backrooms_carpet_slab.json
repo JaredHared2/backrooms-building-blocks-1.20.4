@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms_building_blocks:block/backrooms_carpet_slab"
+    },
+    "type=double": {
+      "model": "backrooms_building_blocks:block/backrooms_carpet"
+    },
+    "type=top": {
+      "model": "backrooms_building_blocks:block/backrooms_carpet_slab_top"
+    }
+  }
+}

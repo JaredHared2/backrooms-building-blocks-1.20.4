@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "backrooms_building_blocks:block/arrow_wallpaper",
+    "side": "backrooms_building_blocks:block/arrow_wallpaper",
+    "top": "backrooms_building_blocks:block/arrow_wallpaper"
+  }
+}

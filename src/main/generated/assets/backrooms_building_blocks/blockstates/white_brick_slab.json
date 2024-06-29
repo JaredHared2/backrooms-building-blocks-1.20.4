@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms_building_blocks:block/white_brick_slab"
+    },
+    "type=double": {
+      "model": "backrooms_building_blocks:block/white_brick"
+    },
+    "type=top": {
+      "model": "backrooms_building_blocks:block/white_brick_slab_top"
+    }
+  }
+}

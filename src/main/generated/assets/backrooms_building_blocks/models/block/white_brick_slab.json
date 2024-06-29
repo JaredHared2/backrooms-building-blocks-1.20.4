@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "backrooms_building_blocks:block/white_brick",
+    "side": "backrooms_building_blocks:block/white_brick",
+    "top": "backrooms_building_blocks:block/white_brick"
+  }
+}

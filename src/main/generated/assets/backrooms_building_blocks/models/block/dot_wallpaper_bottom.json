@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "backrooms_building_blocks:block/dot_wallpaper",
+    "up": "backrooms_building_blocks:block/dot_wallpaper",
+    "north": "backrooms_building_blocks:block/dot_wallpaper_bottom",
+    "east": "backrooms_building_blocks:block/dot_wallpaper_bottom",
+    "south": "backrooms_building_blocks:block/dot_wallpaper_bottom",
+    "west": "backrooms_building_blocks:block/dot_wallpaper_bottom",
+    "particle": "backrooms_building_blocks:block/dot_wallpaper"
+  }
+}
