@@ -36,7 +36,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.WHITE_BRICK_SLAB);
                         entries.add(ModBlocks.WHITE_BRICK_STAIRS);
 
-
+                        //ITEMS
+                        entries.add(ModItems.ALMOND_WATER);
 
 
                         //FUNCTIONAL BLOCKS
