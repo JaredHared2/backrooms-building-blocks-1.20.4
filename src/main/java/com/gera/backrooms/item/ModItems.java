@@ -15,6 +15,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
 
     //public static final Item ITEM_NAME_HERE = registerItem("ITEM_ID", new Item(new FabricItemSettings()));
+
     public static final Item ALMOND_WATER = registerItem("almond_water", new Item(new FabricItemSettings().food(ModFoodComponents.ALMOND_WATER)));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {

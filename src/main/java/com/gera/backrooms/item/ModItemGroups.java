@@ -23,11 +23,11 @@ public class ModItemGroups {
                         entries.add(ModBlocks.POOL_WHITE);
                         entries.add(ModBlocks.POOL_WHITE_SLAB);
                         entries.add(ModBlocks.POOL_WHITE_STAIRS);
-                        entries.add(ModBlocks.ARROW_WALLPAPER);
                         entries.add(ModBlocks.ARROW_WALLPAPER_BOTTOM);
+                        entries.add(ModBlocks.ARROW_WALLPAPER);
                         entries.add(ModBlocks.ARROW_WALLPAPER_SLAB);
-                        entries.add(ModBlocks.DOT_WALLPAPER);
                         entries.add(ModBlocks.DOT_WALLPAPER_BOTTOM);
+                        entries.add(ModBlocks.DOT_WALLPAPER);
                         entries.add(ModBlocks.DOT_WALLPAPER_SLAB);
                         entries.add(ModBlocks.BACKROOMS_CARPET);
                         entries.add(ModBlocks.BACKROOMS_CARPET_SLAB);

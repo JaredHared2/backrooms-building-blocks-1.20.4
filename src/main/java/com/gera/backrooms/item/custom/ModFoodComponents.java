@@ -8,6 +8,6 @@ public class ModFoodComponents {
     public static final FoodComponent ALMOND_WATER = new FoodComponent.Builder()
             .hunger(2)
             .saturationModifier(.25f)
-            .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 200), 1)
+            .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 2400), 1)
             .build();
 }
